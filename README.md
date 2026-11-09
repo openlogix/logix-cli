@@ -1,6 +1,6 @@
 # Logix CLI
 
-FPGA builds from the command line: build, test and program FPGAs.
+FPGA builds from the command line: build and test designs, program boards.
 
 **Coming Q1 2027.** This repository is a placeholder; the work hasn't started here yet. See the [Logix CLI page](https://www.openlogix.org/cli/) for what's planned.
 
