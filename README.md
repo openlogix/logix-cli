@@ -3,6 +3,8 @@
   <img alt="Logix CLI" src="https://www.openlogix.org/brand/readme/cli-light.svg" height="96">
 </picture>
 
+<br>
+
 [![License: MIT or Apache 2.0](https://img.shields.io/badge/License-MIT%20or%20Apache%202.0-blue)](LICENSE-MIT)
 
 FPGA builds from the command line: build and test designs, program boards.
